@@ -1,0 +1,123 @@
+[
+  {
+    "id": "R101",
+    "name": "Room 101",
+    "capacity": 150,
+    "room_type": "CLASSROOM",
+    "building": "Main Building",
+    "floor": 1,
+    "equipment": ["projector", "computer", "whiteboard", "speakers"],
+    "features": ["acoustic_panels", "air_conditioning"],
+    "acoustics_rating": 0.9,
+    "lighting_rating": 0.8,
+    "accessibility_rating": 1.0,
+    "availability": {
+      "Monday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Tuesday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Wednesday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Thursday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Friday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true}
+    }
+  },
+  {
+    "id": "R102",
+    "name": "Room 102",
+    "capacity": 80,
+    "room_type": "CLASSROOM",
+    "building": "Main Building",
+    "floor": 1,
+    "equipment": ["projector", "whiteboard"],
+    "features": ["natural_lighting"],
+    "acoustics_rating": 0.85,
+    "lighting_rating": 0.9,
+    "accessibility_rating": 1.0,
+    "availability": {
+      "Monday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Tuesday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Wednesday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Thursday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Friday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true}
+    }
+  },
+  {
+    "id": "LAB201",
+    "name": "Computer Lab 201",
+    "capacity": 40,
+    "room_type": "COMPUTER_LAB",
+    "building": "Technology Building",
+    "floor": 2,
+    "equipment": ["computers", "software", "network", "projector"],
+    "features": ["air_conditioning", "power_outlets"],
+    "acoustics_rating": 0.85,
+    "lighting_rating": 0.9,
+    "accessibility_rating": 0.8,
+    "availability": {
+      "Monday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Tuesday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Wednesday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Thursday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Friday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true}
+    }
+  },
+  {
+    "id": "LAB301",
+    "name": "Physics Lab 301",
+    "capacity": 30,
+    "room_type": "LAB",
+    "building": "Science Building",
+    "floor": 3,
+    "equipment": ["lab_equipment", "safety_gear", "fume_hood"],
+    "features": ["ventilation", "emergency_shower"],
+    "acoustics_rating": 0.8,
+    "lighting_rating": 0.7,
+    "accessibility_rating": 0.9,
+    "availability": {
+      "Monday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Tuesday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Wednesday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Thursday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Friday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true}
+    }
+  },
+  {
+    "id": "SEM101",
+    "name": "Seminar Room 101",
+    "capacity": 50,
+    "room_type": "SEMINAR_ROOM",
+    "building": "Main Building",
+    "floor": 1,
+    "equipment": ["projector", "whiteboard", "conference_table"],
+    "features": ["quiet_environment", "conference_setup"],
+    "acoustics_rating": 0.9,
+    "lighting_rating": 0.8,
+    "accessibility_rating": 1.0,
+    "availability": {
+      "Monday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Tuesday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Wednesday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Thursday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Friday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true}
+    }
+  },
+  {
+    "id": "AUD001",
+    "name": "Main Auditorium",
+    "capacity": 300,
+    "room_type": "AUDITORIUM",
+    "building": "Main Building",
+    "floor": 0,
+    "equipment": ["projector", "sound_system", "stage_lighting", "microphones"],
+    "features": ["tiered_seating", "stage", "recording_equipment"],
+    "acoustics_rating": 1.0,
+    "lighting_rating": 0.9,
+    "accessibility_rating": 1.0,
+    "availability": {
+      "Monday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Tuesday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Wednesday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Thursday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true},
+      "Friday": {"08:00": true, "09:00": true, "10:00": true, "11:00": true, "12:00": true, "13:00": true, "14:00": true, "15:00": true, "16:00": true, "17:00": true}
+    }
+  }
+]
+

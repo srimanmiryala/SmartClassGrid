@@ -1,0 +1,94 @@
+[
+  {
+    "id": "F001",
+    "name": "Dr. Alice Smith",
+    "department": "Computer Science",
+    "email": "alice.smith@university.edu",
+    "max_teaching_hours": 20,
+    "preferred_days": ["Monday", "Wednesday", "Friday"],
+    "preferred_times": ["10:00", "11:00"],
+    "unavailable_slots": {
+      "Tuesday": ["08:00", "09:00"],
+      "Thursday": ["15:00"]
+    },
+    "consecutive_classes_preference": true,
+    "break_duration_required": 1,
+    "current_teaching_hours": 0,
+    "assigned_slots": {}
+  },
+  {
+    "id": "F002",
+    "name": "Prof. Bob Johnson",
+    "department": "Computer Science",
+    "email": "bob.johnson@university.edu",
+    "max_teaching_hours": 18,
+    "preferred_days": ["Tuesday", "Thursday"],
+    "preferred_times": ["14:00", "15:00", "16:00"],
+    "unavailable_slots": {},
+    "consecutive_classes_preference": false,
+    "break_duration_required": 1,
+    "current_teaching_hours": 0,
+    "assigned_slots": {}
+  },
+  {
+    "id": "F003",
+    "name": "Dr. Charlie Nguyen",
+    "department": "Mathematics",
+    "email": "charlie.nguyen@university.edu",
+    "max_teaching_hours": 22,
+    "preferred_days": ["Monday", "Wednesday", "Friday"],
+    "preferred_times": ["09:00", "10:00"],
+    "unavailable_slots": {
+      "Friday": ["08:00"]
+    },
+    "consecutive_classes_preference": true,
+    "break_duration_required": 1,
+    "current_teaching_hours": 0,
+    "assigned_slots": {}
+  },
+  {
+    "id": "F004",
+    "name": "Dr. Diana Evans",
+    "department": "Physics",
+    "email": "diana.evans@university.edu",
+    "max_teaching_hours": 15,
+    "preferred_days": ["Thursday"],
+    "preferred_times": ["13:00", "14:00"],
+    "unavailable_slots": {},
+    "consecutive_classes_preference": true,
+    "break_duration_required": 1,
+    "current_teaching_hours": 0,
+    "assigned_slots": {}
+  },
+  {
+    "id": "F005",
+    "name": "Prof. Ethan Kim",
+    "department": "English",
+    "email": "ethan.kim@university.edu",
+    "max_teaching_hours": 18,
+    "preferred_days": ["Friday"],
+    "preferred_times": ["11:00"],
+    "unavailable_slots": {},
+    "consecutive_classes_preference": false,
+    "break_duration_required": 1,
+    "current_teaching_hours": 0,
+    "assigned_slots": {}
+  },
+  {
+    "id": "F006",
+    "name": "Dr. Sarah Wilson",
+    "department": "Mathematics",
+    "email": "sarah.wilson@university.edu",
+    "max_teaching_hours": 20,
+    "preferred_days": ["Monday", "Wednesday"],
+    "preferred_times": ["08:00", "09:00", "10:00"],
+    "unavailable_slots": {
+      "Wednesday": ["15:00", "16:00", "17:00"]
+    },
+    "consecutive_classes_preference": true,
+    "break_duration_required": 1,
+    "current_teaching_hours": 0,
+    "assigned_slots": {}
+  }
+]
+
