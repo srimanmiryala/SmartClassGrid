@@ -101,7 +101,7 @@ Upcoming features include:
 
 ## 📫 Contact
 
-Created and maintained by **Your Name**  
+Created and maintained by **Sriman Miryala**  
 Email: srimanmiryala369@gmail.com  
 GitHub: [https://github.com/srimanmiryala](https://github.com/srimanmiryala)  
 
