@@ -1,118 +1,111 @@
-SmartClassGrid
+# 📚 SmartClassGrid
 
+🎯 **Automated Scheduling System with 99.7% Accuracy**
 
-🎯 Automated Scheduling System with 99.7% Accuracy
-
-🚀 Overview
 SmartClassGrid is an intelligent, automated scheduling system designed specifically for educational institutions. It revolutionizes the complex task of creating optimized class schedules by seamlessly balancing course requirements, room availability, equipment constraints, faculty preferences, and institutional policies.
 
-Why SmartClassGrid?
+---
 
-Reduces scheduling time from days to minutes
+## ⚡ Why SmartClassGrid?
 
-Eliminates human error and scheduling conflicts
+- ⏳ Reduces scheduling time from days to minutes  
+- 🚫 Eliminates human error and scheduling conflicts  
+- 📈 Maximizes resource utilization across campus  
+- 🛠️ Adapts dynamically to real-world constraints and preferences  
 
-Maximizes resource utilization across campus
+---
 
-Adapts to real-world constraints and preferences
+## ✨ Key Features
 
-✨ Key Features
+### 🔥 Advanced Algorithms
+- **Greedy Algorithm:** Lightning-fast initial schedule generation  
+- **Backtracking Optimization:** Intelligent conflict resolution and ongoing improvement  
+- **Constraint Satisfaction:** Handles complex institutional requirements  
 
-🔥 Advanced Algorithms
+### 🛡️ Conflict Management
+- Real-time conflict detection and prevention  
+- Automatic resolution of scheduling overlaps  
+- Resource capacity validation  
 
-Greedy Algorithm: Lightning-fast initial schedule generation
+### 📊 Resource Optimization
+- Maximizes classroom and laboratory utilization  
+- Balances faculty workloads automatically  
+- Optimizes equipment and facility allocation  
 
-Backtracking Optimization: Intelligent conflict resolution and improvement
+### 💻 User Experience
+- Intuitive GUI interface built with Python Tkinter  
+- Real-time progress tracking and status updates  
+- Multiple export formats (JSON, CSV, TXT)  
 
-Constraint Satisfaction: Handles complex institutional requirements
+### 🔧 Flexibility & Extensibility
+- JSON-driven configuration system  
+- Support for diverse course types (lectures, labs, seminars)  
+- Modular architecture for easy customization  
+- Plugin-ready design for institution-specific requirements  
 
-🛡️ Conflict Management
+---
 
-Real-time conflict detection and prevention
+## 🎮 Usage Guide
 
-Automatic resolution of scheduling overlaps
+### Getting Started
+1. Launch SmartClassGrid using:
+    ```
+    python run.py
+    ```
+2. Load Data: Import your course, room, and faculty information  
+3. Generate Schedule: Click **Generate Schedule** to produce initial optimized schedule  
+4. Optimize: Use **Optimize Schedule** for enhanced resource utilization  
+5. Export: Save schedules in JSON, CSV, or TXT formats  
 
-Resource capacity validation
+---
 
-📊 Resource Optimization
+## 📈 Performance Metrics
 
-Maximizes classroom and laboratory utilization
+- 🎯 Accuracy: 99.7% successful scheduling rate  
+- ⚡ Speed: Generates schedules in under 30 seconds  
+- 🔧 Optimization: Provides up to 25% improvement in resource utilization  
+- ✅ Conflict Resolution: 100% automatic conflict detection and fixing  
 
-Balances faculty workloads automatically
+---
 
-Optimizes equipment and facility allocation
+## 🤝 Contributing
 
-💻 User Experience
+We welcome your contributions! To get involved:  
+- Fork the repository  
+- Create a feature branch:
+    ```
+    git checkout -b feature/AmazingFeature
+    ```  
+- Commit your changes:
+    ```
+    git commit -m 'Add AmazingFeature'
+    ```  
+- Push to the branch:
+    ```
+    git push origin feature/AmazingFeature
+    ```  
+- Open a Pull Request on GitHub  
 
-Intuitive GUI interface built with Python Tkinter
+---
 
-Real-time progress tracking and status update
+## 🚀 What’s Next?
 
-Multiple export formats (JSON, CSV, TXT)
+Upcoming features include:  
+- 🌐 Web-based interface  
+- 📱 Mobile app support  
+- 🤖 AI-powered preference learning  
+- ☁️ Cloud deployment options  
+- 📊 Advanced analytics dashboard  
 
-🔧 Flexibility & Extensibility
+---
 
-JSON-driven configuration system
+## 📫 Contact
 
-Support for diverse course types (lectures, labs, seminars)
+Created and maintained by **Your Name**  
+Email: srimanmiryala369@gmail.com  
+GitHub: [https://github.com/srimanmiryala](https://github.com/srimanmiryala)  
 
-Modular architecture for easy customization
+---
 
-Plugin-ready design for institutional-specific requirements
+*Revolutionizing classroom scheduling one optimized schedule at a time!*
 
-<img width="691" height="526" alt="image" src="https://github.com/user-attachments/assets/4e984028-c4ae-4ade-86f3-d2f0f43954ca" />
-
-
-
-🎮 Usage Guide
-
-Getting Started
-
-Launch SmartClassGrid using python run.py
-
-Load Data: Import your course, room, and faculty information
-
-Generate Schedule: Click "Generate Schedule" for initial optimization
-
-Optimize: Use "Optimize Schedule" for enhanced resource utilization
-
-Export: Save your schedule in your preferred format
-
-📈 Performance Metrics
-
-🎯 Accuracy: 99.7% successful scheduling rate
-
-⚡ Speed: Generates schedules in under 30 seconds
-
-🔧 Optimization: Up to 25% improvement in resource utilization
-
-✅ Conflict Resolution: 100% automatic conflict detection
-
-🤝 Contributing
-
-We welcome contributions! Here's how to get involved:
-
-Fork the repository
-
-Create a feature branch (git checkout -b feature/AmazingFeature)
-
-Commit your changes (git commit -m 'Add AmazingFeature')
-
-Push to the branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
-
-
-🚀 What's Next?
-
-Upcoming Features:
-
-🌐 Web-based interface
-
-📱 Mobile app support
-
-🤖 AI-powered preference learning
-
-☁️ Cloud deployment options
-
-📊 Advanced analytics dashboard
